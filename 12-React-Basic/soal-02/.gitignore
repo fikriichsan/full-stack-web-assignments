@@ -5,6 +5,7 @@
 /src/bootstrap
 /.pnp
 .pnp.js
+.gitignore
 
 # testing
 /coverage
