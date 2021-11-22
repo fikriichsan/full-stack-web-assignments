@@ -7,14 +7,13 @@ export const CardContainer = styled.div`
     -webkit-box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.25);
     -moz-box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.25);
     box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.25);
-    display: block;
     text-align: center;
-    margin: auto;
-    margin-top: 5%;
 `;
 
 export const CardImage = styled.img`
     width: 100%;
+    height: 500px;
+    object-fit: cover;
     border-top-left-radius: 0.5em;
     border-top-right-radius: 0.5em;
 `;
