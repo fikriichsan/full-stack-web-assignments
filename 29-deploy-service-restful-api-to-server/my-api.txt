@@ -1,0 +1,2 @@
+https://groupproject-backend-23-24.herokuapp.com/
+https://groupproject-backend-23-24.herokuapp.com/hotel
